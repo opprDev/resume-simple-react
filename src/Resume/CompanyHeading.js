@@ -24,19 +24,19 @@ const defaultStyles = {
   company: {
     fontSize: '1.25rem',
     fontWeight: 'bold',
-    color: 'rgba(77, 100, 141, 1)',
+    color: 'rgba(46, 134, 222, 1)',
     padding: '0.25rem',
   },
   title: {
     display: 'inline-block',
     fontSize: '1rem',
-    color: 'rgba(78, 78, 78 , 1)',
+    color: 'rgba(10, 189, 227 , 1)',
     padding: '0.25rem',
     fontWeight: '300',
   },
   locationdate: {
     fontSize: '0.9rem',
-    color: 'rgba(77, 100, 141, 0.75)',
+    color: 'rgba(84, 160, 255, 0.75)',
     padding: '0.25rem',
   }
 };

@@ -21,7 +21,7 @@ const style = {
   },
   heading: {
     textAlign: 'left',
-    borderBottom: '1px solid rgb(21, 44, 85)',
+    borderBottom: '1px solid rgb(52, 31, 151)',
     padding: '0.25rem',
     marginBottom: '0.6rem',
   },

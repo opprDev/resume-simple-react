@@ -33,7 +33,7 @@ const style = {
     flexDirection: 'column',
     justifyContent: 'space-between',
     padding: '0 1.2rem 1.2rem 1.2rem',
-    color: 'rgb(21, 44, 85)',
+    color: 'rgb(52, 31, 151)',
   },
 };
 

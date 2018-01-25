@@ -19,11 +19,11 @@ const style = {
   name: {
     fontSize: '1rem',
     fontWeight: 'bold',
-    color: 'rgb(77, 100, 141)'
+    color: 'rgb(84, 160, 255)'
   },
   tools: {
     fontSize: '0.75rem',
-    color: 'rgba(77, 100, 141, 0.75)',
+    color: 'rgba(84, 160, 255, 0.75)',
   },
 };
 

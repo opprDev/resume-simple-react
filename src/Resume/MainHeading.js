@@ -7,9 +7,9 @@ const MainHeading = ({ title }) => (
 const style = {
   main: {
     marginBottom: '0.6rem',
-    color: 'rgba(21, 44, 85, 1)',
+    color: 'rgba(46, 134, 222, 1)',
     padding: '0.25rem',
-    borderBottom: '1px solid rgba(21, 44, 85, 1)'
+    borderBottom: '1px solid rgba(46, 134, 222, 1)'
   },
 };
 

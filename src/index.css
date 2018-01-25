@@ -3,7 +3,7 @@
 /* apply a natural box layout model to all elements, but allowing components to change */
 html {
   box-sizing: border-box;
-  color: rgba(78, 78, 78 , 1);
+  color: rgba(46, 134, 222 , 1);
   font-weight: 300;
 }
 *, *:before, *:after {
@@ -27,9 +27,9 @@ h3 {
 }
 
 b {
-  color: rgba(21, 44, 85, 1);
+  color: rgba(84, 160, 255);
 }
 
 a {
-  color: rgba(21, 44, 85, 1);
+  color: rgba(10, 189, 227, 1);
 }

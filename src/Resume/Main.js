@@ -14,7 +14,7 @@ const Main = ({ firstName, lastName, program, companies, projects }) => (
     <Companies data={companies} />
     <MainHeading title="+ Projects" />
       {projects.map((project, key) => (
-        <Section color="rgb(77, 100, 141)" key={key}>
+        <Section color="rgb(84, 160, 255)" key={key}>
           <Project
             name={project.name}
             tools={project.tools}

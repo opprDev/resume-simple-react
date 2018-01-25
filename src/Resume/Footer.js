@@ -32,8 +32,8 @@ const style = {
     height: '2.4rem',
     textAlign: 'center',
     verticalAlign: 'middle',
-    color: 'rgba(77, 100, 141, 1)',
-    border: '1px solid rgba(77, 100, 141, 1)',
+    color: 'rgba(46, 134, 222, 1)',
+    border: '1px solid rgba(46, 134, 222, 1)',
     borderRadius: '60px',
     padding: '4px'
   },

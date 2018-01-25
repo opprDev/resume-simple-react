@@ -144,7 +144,7 @@ const DATA = {
       {
         name: 'COMPANY_1',
         title: 'TITLE_1',
-        color: 'rgb(77, 100, 141)',
+        color: 'rgb(84, 160, 255)',
         date: 'MONTH YEAR',
         location: 'LOCATION_1',
         achievements: [
@@ -156,7 +156,7 @@ const DATA = {
       {
         name: 'COMPANY_2',
         title: 'TITLE_2',
-        color: 'rgb(77, 100, 141)',
+        color: 'rgb(84, 160, 255)',
         date: 'MONTH YEAR',
         location: 'LOCATION_2',
         achievements: [
@@ -168,7 +168,7 @@ const DATA = {
       {
         name: 'COMPANY_3',
         title: 'TITLE_3',
-        color: 'rgb(77, 100, 141)',
+        color: 'rgb(84, 160, 255)',
         date: 'MONTH YEAR',
         location: 'LOCATION_3',
         achievements: [
@@ -180,7 +180,7 @@ const DATA = {
       {
         name: 'COMPANY_4',
         title: 'TITLE_4',
-        color: 'rgb(77, 100, 141)',
+        color: 'rgb(84, 160, 255)',
         date: 'MONTH YEAR',
         location: 'LOCATION_4',
         achievements: [
