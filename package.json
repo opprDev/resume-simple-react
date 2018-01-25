@@ -33,6 +33,7 @@
     "eslint-plugin-react": "^3.11.3",
     "eventsource-polyfill": "^0.9.6",
     "express": "^4.13.3",
+    "gh-pages": "^1.1.0",
     "normalize.css": "^3.0.3",
     "radium": "^0.15.3",
     "rimraf": "^2.4.3",
