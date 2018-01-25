@@ -7,7 +7,9 @@
     "build:webpack": "cross-env NODE_ENV=production webpack --config webpack.config.prod.js",
     "build": "npm run clean && npm run build:webpack",
     "start": "node dev-server.js",
-    "lint": "eslint src"
+    "lint": "eslint src",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "repository": {
     "type": "git",
@@ -15,7 +17,7 @@
   },
   "license": "MIT",
   "author": "opprDev <general@oppr.io> (https://github.com/opprDev)",
-  "homepage": "https://github.com/opprDev/resume-simple-react",
+  "homepage": "https://opprdev.github.io/resume-simple-react/",
   "devDependencies": {
     "babel-core": "^6.3.15",
     "babel-eslint": "^5.0.0-beta4",
