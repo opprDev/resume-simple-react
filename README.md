@@ -15,6 +15,8 @@ The simple instruction to `install` and `run` are as follows:
 > npm start
 ```
 
+<img src="assets/banner.png"/>
+
 ### Authors
 
 * [Francisco Maria Calisto](http://franciscocalisto.me/) ([FMCalisto](https://github.com/FMCalisto))
