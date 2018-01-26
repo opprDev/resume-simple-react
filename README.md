@@ -14,7 +14,7 @@ This project is linted at compile-time using [ESLint](https://github.com/eslint/
 
 ### Clone
 
-The simple instruction to `clone` this repository are as follows:
+The simple instructions to `clone` this repository are as follows:
 
 ```BASH
 > git clone git@github.com:opprDev/resume-simple-react.git
@@ -23,7 +23,7 @@ The simple instruction to `clone` this repository are as follows:
 
 ### Install & Run
 
-The simple instruction to `install` and `run` are as follows:
+The simple instructions to `install` and `run` are as follows:
 
 ```BASH
 > npm install
